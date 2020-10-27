@@ -1,3 +1,2 @@
-*.tex linguist-detectable=false
-*.sty linguist-detectable=false
-*.latex linguist-detectable=false
+cp1920t.tex linguist-detectable=false
+cp1920t.sty linguist-detectable=false
